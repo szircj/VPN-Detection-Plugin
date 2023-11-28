@@ -11,7 +11,7 @@ const init = (registerNotify, serviceResolver, configWrapper, pluginHelper) => {
 
 const plugin = {
     author: 'szir',
-    version: '2.1',
+    version: '1.0',
     name: 'VPN Detection Plugin',
     manager: null,
     configWrapper: null,
